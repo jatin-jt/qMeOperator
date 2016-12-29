@@ -2,6 +2,7 @@ package com.decode.qmeoperator;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.widget.Button;
 import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
@@ -19,6 +20,7 @@ public class MainActivity extends AppCompatActivity {
         TextView customerPhone = (TextView) findViewById(R.id.phoneText);
         TextView customerAccountId = (TextView) findViewById(R.id.accountIdText);
 
+        Button nextCustomer = (Button) findViewById(R.id.callNextButton);
 
     }
 }

@@ -287,7 +287,7 @@
         </LinearLayout>
 
         <info.hoang8f.widget.FButton
-            android:id="@+id/btn_save_profile"
+            android:id="@+id/callNextButton"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Call Next Customer"
