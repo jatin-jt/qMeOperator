@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "452821659759",
+    "firebase_url": "https://q-me-bfcf6.firebaseio.com",
+    "project_id": "q-me-bfcf6",
+    "storage_bucket": "q-me-bfcf6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452821659759:android:c27f63a51a3ad668",
+        "android_client_info": {
+          "package_name": "com.decode.qme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452821659759-2r2jttq9d05qb8bu2qc9mfsagfr1vslh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.decode.qme",
+            "certificate_hash": "6BEB43AE4F3064B1871AD044D886EC173EFAD123"
+          }
+        },
+        {
+          "client_id": "452821659759-kmtqsovslkj63t8c962fnahkggjkmb75.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.decode.qme",
+            "certificate_hash": "B3184A25DB76337CBF5B39302A8F6FC4709D342A"
+          }
+        },
+        {
+          "client_id": "452821659759-t175vhe6276uch69s7lj1bmuaqfofem3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdQ6jXfGUpQMONpstBGS4kjICGVxVQkoU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "452821659759-t175vhe6276uch69s7lj1bmuaqfofem3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452821659759:android:c3c46011751074c7",
+        "android_client_info": {
+          "package_name": "com.decode.qmeoperator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452821659759-k0bja0ifn8clr8etits29phr67g67vjc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.decode.qmeoperator",
+            "certificate_hash": "22BF3936C11C3A6E75598290F51A9AA2EB8109D0"
+          }
+        },
+        {
+          "client_id": "452821659759-t175vhe6276uch69s7lj1bmuaqfofem3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdQ6jXfGUpQMONpstBGS4kjICGVxVQkoU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "452821659759-t175vhe6276uch69s7lj1bmuaqfofem3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
