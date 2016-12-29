@@ -28,7 +28,7 @@
                 android:paddingRight="16dp"
                 android:text="Queue Length"
                 android:textColor="#455A64"
-                android:textSize="20sp"
+                android:textSize="16sp"
                 android:textStyle="bold" />
 
             <TextView
@@ -38,7 +38,7 @@
                 android:paddingRight="16dp"
                 android:text="45"
                 android:textColor="#546E7A"
-                android:textSize="20sp" />
+                android:textSize="16sp" />
 
         </LinearLayout>
 
@@ -52,9 +52,9 @@
                 android:layout_width="165dp"
                 android:layout_height="wrap_content"
                 android:paddingRight="16dp"
-                android:text="Current Customer ID"
+                android:text="Customer ID"
                 android:textColor="#607D8B"
-                android:textSize="20sp"
+                android:textSize="16sp"
                 android:textStyle="bold" />
 
             <TextView
@@ -64,7 +64,7 @@
                 android:paddingRight="16dp"
                 android:text="003"
                 android:textColor="#78909C"
-                android:textSize="20sp"
+                android:textSize="16sp"
                 android:layout_gravity="center_vertical"/>
 
         </LinearLayout>
@@ -74,7 +74,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:orientation="vertical"
-            android:paddingTop="16dp">
+            android:paddingTop="10dp">
 
             <RelativeLayout
                 android:layout_width="match_parent"
@@ -296,7 +296,7 @@
             fbutton:shadowEnabled="true"
             fbutton:shadowHeight="5dp"
             fbutton:cornerRadius="5dp"
-            android:layout_marginTop="20dp"
+            android:layout_marginTop="10dp"
             android:textSize="20dp"
             android:textColor="#ffffff"/>
 
